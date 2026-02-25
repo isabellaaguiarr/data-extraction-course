@@ -22,7 +22,7 @@ Foco na obtenção de dados de diversas fontes e compreensão inicial do dataset
 | **Lab 02** | [Extração via SQL (Banco Relacional)](./notebooks/lab_02_sql_extraction.ipynb) | Conexão com banco de dados via `SQLAlchemy`. |
 | **Lab 03** | [Análise Exploratória Inicial (EDA)](./notebooks/lab_03_eda_basics.ipynb) | Estatística descritiva e histogramas. |
 
-*(Nota: Adicione novas linhas à medida que completarmos os laboratórios)*
+
 
 ---
 
