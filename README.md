@@ -1,9 +1,13 @@
 # Portfólio de Extração e Preparação de Dados
 
 **Aluno:** Isabella Aguiar Rodrigues
+
 **Curso:** Ciência de Dados & IA | IBMEC
+
 **Semestre:** 2026.1
+
 **Disciplina:** Extração e Preparação de Dados (IBM8915)
+
 **Professor:** Luís Aramis
 
 ---
