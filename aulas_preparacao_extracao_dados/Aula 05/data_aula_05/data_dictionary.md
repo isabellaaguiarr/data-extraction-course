@@ -1,6 +1,6 @@
 # Dicionário de Dados – Salário TI Nacional 2023
 
-| Variável | Tipo | Descrição | Nulos(%) | Anomalias Encontradas |
+| Variável | Tipo | Descrição | % Nulos | Anomalias Encontradas |
 |----------|------|-----------|---------|------------------------|
 | cargo | Texto | Cargo exercido pelos profissionais de TI | 0% | Inconsistência de padronização (maiúsculas/minúsculas e variações de escrita). |
 | especialidade | Texto | Área específica de atuação dentro do cargo de TI | 55.95% | Alto volume de valores nulos. |
