@@ -26,7 +26,7 @@ Foco na obtenção de dados de diversas fontes e compreensão inicial do dataset
 | **Lab 02** | [Extração via SQL (Banco Relacional)](./notebooks/lab_02_sql_extraction.ipynb) | Conexão com banco de dados via `SQLAlchemy`. |
 | **Lab 03** | [Análise Exploratória Inicial (EDA)](./notebooks/lab_03_eda_basics.ipynb) | Estatística descritiva e histogramas. |
 | **Lab 04** | [Qualidade de Dados e Metadados](./notebooks/lab_04_dataset.ipynb) | Limpeza dos dados. |
-| **Lab 05** | [Dados Ausentes: Identificação e Mecanismos ](./notebooks/lab_05_missing_values_viz_Tinanic.ipynb) | Identificação e Visualização de Dados Ausentes. |
+| **Lab 05** | [Dados Ausentes](./notebooks/lab_05_missing_values_viz_Tinanic.ipynb) | Identificação e Visualização de Dados Ausentes. |
 
 ---
 
