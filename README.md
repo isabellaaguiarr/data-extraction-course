@@ -15,10 +15,9 @@
 ## Sobre Este Repositório
 Este repositório contém o conjunto de entregas práticas desenvolvidas ao longo da disciplina. O objetivo é demonstrar competências em todo o ciclo de vida da engenharia de dados, desde a extração bruta até a orquestração de pipelines automatizados.
 
-## Índice de Projetos
+---
 
-### Módulo 1: Extração e Análise Exploratória (Raw Data)
-Foco na obtenção de dados de diversas fontes e compreensão inicial do dataset.
+## Índice de Projetos
 
 | Lab | Atividade | Competências Demonstradas |
 | :--- | :--- | :--- |
