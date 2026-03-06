@@ -27,6 +27,7 @@ Foco na obtenção de dados de diversas fontes e compreensão inicial do dataset
 | **Lab 03** | [Análise Exploratória Inicial (EDA)](./notebooks/lab_03_eda_basics.ipynb) | Estatística descritiva e histogramas. |
 | **Lab 04** | [Qualidade de Dados e Metadados](./notebooks/lab_04_dataset.ipynb) | Limpeza dos dados. |
 | **Lab 05** | [Dados Ausentes](./notebooks/lab_05_missing_values_viz_Tinanic.ipynb) | Identificação e Visualização de Dados Ausentes. |
+| **Lab 06** | [Tratamento Univariado e Multivariado](./notebooks/lab_06_imputation.ipynb) | Descarte de dados ausentes ou preenchimento (imputação). |
 
 ---
 
