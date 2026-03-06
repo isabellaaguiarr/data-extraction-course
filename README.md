@@ -1,6 +1,6 @@
 # Portfólio de Extração e Preparação de Dados
 
-**Aluno:** Isabella Aguiar Rodrigues
+**Aluna:** Isabella Aguiar Rodrigues
 
 **Curso:** Ciência de Dados & IA | IBMEC
 
