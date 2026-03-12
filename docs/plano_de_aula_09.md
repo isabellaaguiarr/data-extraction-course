@@ -83,4 +83,4 @@ Conforme as diretrizes da disciplina para a semana de 10 a 12 de março, a entre
 ## 6. Referências Bibliográficas (Para o Professor)
 
 - **Plano de Ensino Reestruturado (2026.1):** Extração e Preparação de Dados.
-- **McKinney, Wes:** _Python para Análise de Dados_. (Capítulo 7: Discretização e compartimentalização - _binning_, Seção de tratamento do `pd.cut` e objetos `Categorical` gerados por ele)
+- **McKinney, Wes:** _Python para Análise de Dados_. (Capítulo 7: Discretização e compartimentalização - _binning_, Seção de tratamento do `pd.cut` e objetos `Categorical` gerados por ele).
