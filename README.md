@@ -10,7 +10,7 @@
 
 **Professor:** Luís Aramis
 
----
+--- 
 
 ## Sobre Este Repositório
 Este repositório contém o conjunto de entregas práticas desenvolvidas ao longo da disciplina. O objetivo é demonstrar competências em todo o ciclo de vida da engenharia de dados, desde a extração bruta até a orquestração de pipelines automatizados.
@@ -24,10 +24,11 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 01** | [Extração de Arquivos Planos (CSV/Excel)](./notebooks/lab_01_flat_files.ipynb) | Uso de `pandas` para leitura de múltiplos formatos. |
 | **Lab 02** | [Extração via SQL (Banco Relacional)](./notebooks/lab_02_sql_extraction.ipynb) | Conexão com banco de dados via `SQLAlchemy`. |
 | **Lab 03** | [Análise Exploratória Inicial (EDA)](./notebooks/lab_03_eda_basics.ipynb) | Estatística descritiva e histogramas. |
-| **Lab 04** | [Qualidade de Dados e Metadados](./notebooks/lab_04_dataset.ipynb) | Limpeza dos dados. |
-| **Lab 05** | [Dados Ausentes](./notebooks/lab_05_missing_values_viz_Tinanic.ipynb) | Identificação e Visualização de Dados Ausentes. |
-| **Lab 06** | [Tratamento Univariado e Multivariado](./notebooks/lab_06_imputation.ipynb) | Descarte de dados ausentes ou preenchimento (imputação). |
-
+| **Lab 04** | [Dados Ausentes](./notebooks/lab_04_missing_values_viz_Tinanic.ipynb) | Identificação e Visualização de Dados Ausentes. |
+| **Lab 05** | [Tratamento Univariado e Multivariado](./notebooks/lab_05_imputation.ipynb) | Descarte de dados ausentes ou preenchimento (imputação). |
+| **Lab 06** | [Tratamento de dados](./notebooks/lab_06_cardinality.ipynb) | Tratamento de Dados Raros e Alta Cardinalidade. |
+| **Lab 07** | [Encoders](./notebooks/lab_07_encoders.ipynb) | Codificação de Variáveis Categóricas. |
+| **Lab 09** | [Binning](./notebooks/lab_09_binning.ipynb) | Discretização de Variáveis. |
 ---
 
 ## Tecnologias Utilizadas
