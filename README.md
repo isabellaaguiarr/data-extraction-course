@@ -28,7 +28,7 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 05** | [Tratamento Univariado e Multivariado](./notebooks/lab_05_imputation.ipynb) | Descarte de dados ausentes ou preenchimento (imputação). |
 | **Lab 06** | [Tratamento de dados](./notebooks/lab_06_cardinality.ipynb) | Tratamento de Dados Raros e Alta Cardinalidade. |
 | **Lab 07** | [Encoders](./notebooks/lab_07_encoders.ipynb) | Codificação de Variáveis Categóricas. |
-| **Lab 09** | [Binning](./notebooks/lab_09_binning.ipynb) | Discretização de Variáveis. |
+| **Lab 08** | [Binning](./notebooks/lab_08_binning.ipynb) | Discretização de Variáveis. |
 ---
 
 ## Tecnologias Utilizadas
