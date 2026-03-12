@@ -30,7 +30,7 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 07** | [Encoders](./notebooks/lab_07_encoders.ipynb) | Codificação de Variáveis Categóricas. |
 | **Lab 08** | [Binning](./notebooks/lab_08_binning.ipynb) | Discretização de Variáveis. |
 ---
-
+Discretização de Variáveis
 ## Tecnologias Utilizadas
 * Python 3.10+
 * Pandas / Numpy
