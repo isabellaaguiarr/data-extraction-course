@@ -29,6 +29,8 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 06** | [Tratamento de dados](./notebooks/lab_06_cardinality.ipynb) | Tratamento de Dados Raros e Alta Cardinalidade. |
 | **Lab 07** | [Encoders](./notebooks/lab_07_encoders.ipynb) | Codificação de Variáveis Categóricas. |
 | **Lab 08** | [Binning](./notebooks/lab_08_binning.ipynb) | Discretização de Variáveis. |
+| **Lab 09** | [Datatime](./notebooks/lab_09_datatime.ipynb) | Engenharia do Tempo. |
+| **Lab 10** | [Feature Engineering](./notebooks/lab_08_feature_engineering.ipynb) | Criação de Variáveis Numéricas. |
 ---
 Discretização de Variáveis
 ## Tecnologias Utilizadas
@@ -36,3 +38,4 @@ Discretização de Variáveis
 * Pandas / Numpy
 * Scikit-Learn
 * SQLAlchemy
+
