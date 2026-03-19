@@ -31,6 +31,7 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 08** | [Binning](./notebooks/lab_08_binning.ipynb) | Discretização de Variáveis. |
 | **Lab 09** | [Datatime](./notebooks/lab_09_datetime.ipynb) | Engenharia do Tempo. |
 | **Lab 10** | [Feature Engineering](./notebooks/lab_10_feature_engineering.ipynb) | Criação de Variáveis Numéricas. |
+| **Lab 11** | [Outliers](./notebooks/lab_11_outliers.ipynb) | Detecção e Tratamento Integrado de Outliers. |
 ---
 Discretização de Variáveis
 ## Tecnologias Utilizadas
