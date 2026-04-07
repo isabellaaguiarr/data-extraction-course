@@ -33,14 +33,14 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 10** | [Feature Engineering](./notebooks/lab_10_feature_engineering.ipynb) | Criação de Variáveis Numéricas. |
 | **Lab 11** | [Outliers](./notebooks/lab_11_outliers.ipynb) | Detecção e Tratamento Integrado de Outliers. |
 | **Lab 12** | [SMOTE](./notebooks/lab_12_scaling_smote.ipynb) |Escalonamento e Desbalanceamento. |
-| **Lab 13** | [SMOTE](./notebooks/lab_13_select_model.ipynb) |Cortando o Ruído com Select Model. |
+| **Lab 13** | [Select Model](./notebooks/lab_13_select_model.ipynb) |Cortando o Ruído com Select Model. |
 | **Lab 14** | [RFE](./notebooks/lab_14_rfe.ipynb) |Recursive Feature Elimination. |
 | **Lab 15** | [Pipelines](./notebooks/lab_15_pipelines_intro.ipynb) |Pipelines. |
+| **Lab 16** | [Transformer](./notebooks/lab_16_aquecimento.ipynb) |Transformer Customizado. |
 ---
-Discretização de Variáveis
+
 ## Tecnologias Utilizadas
 * Python 3.10+
 * Pandas / Numpy
 * Scikit-Learn
 * SQLAlchemy
-
