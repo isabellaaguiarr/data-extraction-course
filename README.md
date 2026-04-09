@@ -37,6 +37,8 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 | **Lab 14** | [RFE](./notebooks/lab_14_rfe.ipynb) |Recursive Feature Elimination. |
 | **Lab 15** | [Pipelines](./notebooks/lab_15_pipelines_intro.ipynb) |Pipelines. |
 | **Lab 16** | [Transformer](./notebooks/lab_16_aquecimento.ipynb) |Transformer Customizado. |
+| **Lab 16_2** | [PNL](./notebooks/lab_16_npl.ipynb) |PNL Básica. |
+| **Lab 17** | [Moldando o Tempo](./notebooks/lab_17_ts.ipynb) |Séries Temporais. |
 ---
 
 ## Tecnologias Utilizadas
