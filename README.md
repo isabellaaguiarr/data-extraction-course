@@ -21,7 +21,7 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 
 | Lab | Atividade | Competências Demonstradas |
 | :--- | :--- | :--- |
-| **Lab 01** | [Extração de Arquivos Planos (CSV/Excel)](./aulas_preparacao_extracao_dados/Aula 02/lab_01_flat_files.ipynb) | Uso de `pandas` para leitura de múltiplos formatos. |
+| **Lab 01** | [Extração de Arquivos Planos (CSV/Excel)](./notebooks/lab_01_flat_files.ipynb) | Uso de `pandas` para leitura de múltiplos formatos. |
 | **Lab 02** | [Extração via SQL (Banco Relacional)](./notebooks/lab_02_sql_extraction.ipynb) | Conexão com banco de dados via `SQLAlchemy`. |
 | **Lab 03** | [Análise Exploratória Inicial (EDA)](./notebooks/lab_03_eda_basics.ipynb) | Estatística descritiva e histogramas. |
 | **Lab 04** | [Dados Ausentes](./notebooks/lab_04_missing_values_viz_Tinanic.ipynb) | Identificação e Visualização de Dados Ausentes. |
